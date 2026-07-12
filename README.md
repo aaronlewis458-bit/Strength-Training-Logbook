@@ -70,3 +70,48 @@ Training Max = Estimated 1RM × 0.95
 ---
 
 Developed by Aaron Lewis
+
+
+---
+
+# Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+## Week 1 - Push
+
+![Week 1 Push](screenshots/Week 1 Push.png)
+
+---
+
+## Week 1 - Pull
+
+![Week 1 Pull](screenshots/Week 1 Pull.png)
+
+---
+
+## Week 12 - Push
+
+![Week 12 Push](screenshots/Week 12 Push.png)
+
+---
+
+## Week 12 - Pull
+
+![Week 12 Pull](screenshots/Week 12 Pull.png)
+
+---
+
+## 1RM Calculator
+
+![1RM Calculator](screenshots/1 RM Calculator.png)
+
+---
+
+## Progression Table
+
+![Progression Table](screenshots/Progression Table.png)
