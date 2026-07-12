@@ -61,8 +61,6 @@ This logbook follows a 12-week percentage-based progression using a **95% Traini
 
 ---
 
----
-
 ## Screenshots
 
 ### Dashboard
