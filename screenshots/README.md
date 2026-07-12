@@ -20,3 +20,13 @@
 
 ### Progression Table
 ![Progression Table](screenshots/progression-table.png)
+
+## 🚀 Future Improvements
+
+- Add automatic plate calculator
+- Add printable workout sheets
+- Improve dashboard visualization
+- Add dark/light theme support
+- Add RPE trend charts
+- Add personal record tracker
+- Add training history analytics
